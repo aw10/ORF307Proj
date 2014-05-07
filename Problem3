@@ -1,0 +1,8 @@
+set Color := red blue green yellow orange;
+set Node := ca or wa;
+ 
+set Edge:
+ca or wa  :=
+ca - + -
+or -  -  +
+wa - - -
